@@ -1,1 +1,1 @@
-IA Models trainning
+This repository contains code for training machine learning models for both regression and classification tasks. Specifically, it includes a regression model for predicting life expectancy and a classification model for autism detection.
